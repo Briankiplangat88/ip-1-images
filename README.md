@@ -19,4 +19,4 @@ so as to access the project on ur local files, you have to clone it using the st
 ### license
 The project is under the  [MIT](license) license.
 ### live site
-view [live](https://lanarokip.github.io/favorite_band/)
+view [live]( https://briankiplangat88.github.io/ip-1-images/)
